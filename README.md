@@ -2,6 +2,8 @@
 
 > Um jogo de plataforma em que **a história das interfaces é a mecânica**. Atravesse 70 anos de computação, de um osciloscópio de 1958 a uma interface "neon glass" de 2026, e a cada era mudam os gráficos, a física e as regras do jogo.
 
+📖 **Leia o documento de conceito completo: [docs/CONCEITO.md](docs/CONCEITO.md)**, com a visão, a premissa, a fantasia do jogador, o significado de cada era e a filosofia de design.
+
 ---
 
 ## O conceito
